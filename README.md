@@ -31,4 +31,7 @@ sudo wget https://updates.jenkins.io/download/war/2.387.3/jenkins.war
 java -jar Jenkins.war  --httpPort=8082
 ```
 
-
+### **--- TO FIND JENKINS ADMINPASSWORD ---**
+```shell
+cat /var/lib/jenkins/secrets/initialAdminPassword
+```
