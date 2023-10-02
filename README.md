@@ -1,8 +1,6 @@
 # jenkins-server-setup
 how to setup jenkins server
 
-## **Ways To Install Jenkins on Windows & Linux**
-
 ### **--- INSTALL JENKINS  ON LINUX METHOD -1 ---**
 
 ```shell
